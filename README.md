@@ -115,3 +115,5 @@ Response Body:
 ## Resources
 
 - [Routing: Nested Resources](https://guides.rubyonrails.org/routing.html#nested-resources)
+
+https://github.com/G3o-R/phase-4-nested-resource-routing-lab
